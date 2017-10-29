@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+header#cabecalho{
+    font-family:ABeeZee;
+    font-size:13pt;
+    box-shadow: #cecece;
+}
+header#cabecalho h2{
+    background-color: #dedede;
+}
+img#img-projetos{
+    width:250px;
+    height:250px;
+    margin-left:30%;
+    box-shadow: 10px 10px 30px rgba(0,0,0,.5);
+}
+p#titulo{
+    padding:15px ;
+    font-size: 30pt;
+    font-weight: bold;
+    text-align: center;
+    color: #ffffff;
+    background-color: #cecece;
+}
+p {
+
+    padding: 5px;
+    color: #000;
+   width: auto;
+}
+
+a.projetos{
+    color: #000;
+
+}
+a.projetos:hover{
+    background-color: darkgrey;
+    color: #fff;
+    transition:1s;
+    padding: 5px;
+}

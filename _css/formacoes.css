@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+div#conteudo{
+
+}
+
+header#cabecalho{
+    font-family:ABeeZee;
+    font-size:13pt;
+    box-shadow: #cecece;
+}
+header#cabecalho h2{
+    background-color: #dedede;
+}
+section#formacao{
+    width:500px;
+    font-size: 14pt;
+    font-family:ABeeZee;
+    float: left;
+}
+
+section#idioma{
+    width:400px;
+    font-size: 14pt;
+    font-family:ABeeZee;
+    float: right;
+}
+
+img#img-formacoes{
+    width:250px;
+    height:250px;
+    margin-left: 30%;
+    box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+
+
+}

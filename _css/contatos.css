@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+header#cabecalho{
+    font-family:ABeeZee;
+    font-size:13pt;
+    box-shadow: #cecece;
+}
+header#cabecalho h2{
+    background-color: #dedede;
+}
+img#img-contatos{
+    width: 300px;
+    height: 300px;
+    margin-left: 20%;
+}
+img#icone{
+    display: block;
+    width: 100px;
+    float: right;
+    position: relative;
+    margin-top:10px;
+}
+
+table#tabela-contatos{
+    border:1px solid #606060;
+    border-spacing: 0px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+    margin-top: 20px;
+}
+table#tabela-contatos td{
+    border:1px solid #606060;
+    padding:10px;
+}
+table#tabela-contatos td.ce{
+    color: #ffffff;
+    background-color: #888888;
+    vertical-align: top;
+    font-weight:bold;
+}
+table#tabela-contatos td.cd{
+    background-color: #cecece;
+}
+table#tabela-contatos caption{
+    color: #888888;
+    font-size:15px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+section#redes-sociais{
+    width:400px;
+    display: block;
+    position: relative;
+    float: right;
+}
+
+section#contatos{
+    display: block;
+    position: relative;
+    float: left;
+    width:500px;
+}
